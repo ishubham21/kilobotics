@@ -12,4 +12,5 @@ This project aims to develop a new algorithm based on Swarm Intelligence, and si
 - Memory: 32 KB Flash, 1KB EEPROM (Electrically Erasable Programmable Read-Only Memory) for storing erasable data.  
 - Dimensions : diameter: 33 mm, height 34 mm (including the legs, without recharge antenna).
 - Programming : AVR C - runs on hex codes. 
+
 ![Kilobots](https://user-images.githubusercontent.com/34435822/146632749-e5fba575-01a2-4095-bce9-252f9d613f53.png)
